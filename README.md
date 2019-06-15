@@ -9,5 +9,5 @@ The purpose of this project is to predict the success of Flipkart given a set of
 
 ## Files Provided : 
       1-project.ipynb : Python Jupyter Notebook, containing the needed Python code to use the available data and to predict for future analysis.
-      2-flapcart.csv : Containing the essential data to train and test out ML model.
+      2-flapcart.zip : Zip file containing the flapcart.csv file which contains the essential data to train and test our ML model.
 
